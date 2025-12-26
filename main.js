@@ -281,6 +281,24 @@ const courses = [
         category: "English Pratice",
         videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764339884000"
      },
+    {
+        number: 1,
+        title: " Root words Vocabulary " ,
+        category: "English Vocab",
+        videoUrl: "https://us06web.zoom.us/rec/share/zhpsyCC_-ytUUI6KiLrJSZXDVQYuTZ017jrOF2l5x-0LLxh2ynytXEs5ShEfVndw.kBcssDDIPsg98G5n"
+     },
+    {
+        number: 2,
+        title: " Vocabulary PYQ Class 1 " ,
+        category: "English Vocab",
+        videoUrl: 'https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764339884000'
+     },
+    {
+        number: 3,
+        title: " Vocabulary PYQ Class 2 " ,
+        category: "English Vocab",
+        videoUrl: 'https://us06web.zoom.us/rec/share/o13kZdwRayYHFVYRui-fbfgh_FYNQmR4gjuiE_vtYq3UoOl5uv9TAtUj8rs-ZAEo.8CX5MLkkanmmwaA3'
+    };       
  ];
 
 let currentCategory = 'all';
