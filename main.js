@@ -2,13 +2,13 @@ const courses = [
     {
         number: 1,
         title: "Baat cheet",
-        category: "Batchsheet",
+        category: "Baatcheet",
         videoUrl: "https://us06web.zoom.us/rec/share/sEUTOrtFkkjs49vDX8oiqdwDeFxvzHDn3gSMI9rN44SHKdoeLzR16ab3fjWAN2Y.gWcswNHv9gYAYczL?startTime=1761137372000"
     },
     {
         number: 2,
         title: "Quick Baatcheet (01 Nov)",
-        category: "Batchsheet",
+        category: "Baatcheet",
         videoUrl: "https://us06web.zoom.us/rec/share/jT0Yp7aVABG63oidE_txsFUZVq1niBmaC-__veE0PyoDSuz_64BpTpFGQV38lvyp.19dYcwngjx1MojsP?startTime=1762009439000"
     },
     {
