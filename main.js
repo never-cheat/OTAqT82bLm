@@ -162,6 +162,30 @@ const courses = [
         videoUrl: "https://us06web.zoom.us/rec/share/92oTvNLeK3pmGL1m_sjYJaGxzKlhpdl7_jYuqNDVh3yN5ZbQjc-2p2IRywxvjRVB.iNGeNvQg55vq_3EG?startTime=1763389283000"
     },
     {
+     number: 11,
+        title:  " Question Tag 2 ",
+        category: "English",
+        videoUrl: " https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764162534000"
+},
+    {
+        number: 12,
+        title:  " S1-S6 Tricks + PYQs ",
+        category: "English",
+        videoUrl: "https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764167953000"
+       },
+    {
+        number: 13,
+        title:  " Homonyms ",
+        category: "English",
+        videoUrl: "https://us06web.zoom.us/rec/share/8I9fGtWjqNerGmSjwe6mqJbsXIOmTLneWWKDxvUr5BjsGWn2oPCV1otqmkZZ1VMB.ahgCwor0plM_9ZrM?startTime=1765378017000"
+      },
+    {
+        number: 14,
+        title:  " Correlating sentences S1-S2 ",
+        category: "English",
+        videoUrl: 'https://us06web.zoom.us/rec/share/h0Z_R_NjNxss78Kk-eYrFOYo9OMAi5bJhtVwjP3TWFnf43iJeqLBdAPH5Iz_Li8I.QSx8WX4Z4rbTLnLu'
+      },
+    {
         number: 1,
         title: "Root words PYQ Class 1",
         category: "English Practice",
@@ -245,18 +269,7 @@ const courses = [
         category: "Physical Geography",
         videoUrl: "https://us06web.zoom.us/rec/share/pUhB2f3cmK08r-atssm1v_CPjeDsnRJmHiIaTCVZgmB4W18HAubtGTAWKh6HIYMX.ABSAdO_MXNryRq3s?startTime=1764080038000"
      },
-    {
-     number: 11,
-        title:  " Question Tag 2 ",
-        category: "English",
-        videoUrl: " https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764162534000"
-},
-    {
-        number: 12,
-        title:  " S1-S6 Tricks + PYQs ",
-        category: "English",
-        videoUrl: "https://us06web.zoom.us/rec/share/eXTtCW-1tsr95pq_2ZrhCdLuvX3zgetBwf0zWSBV-XnQpYZowcLxStxauN_SWE6b.KMfkkV9PqWi8cWb2?startTime=1764167953000"
-    },
+    
     {
         number: 11,
         title: "Earthquake",
@@ -275,12 +288,6 @@ const courses = [
         category: "Physical Geography",
         videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764336151000"
     },
-    {
-        number: 4,
-        title: " Vocabulary PYQ Class 1" ,
-        category: "English Pratice",
-        videoUrl: "https://us06web.zoom.us/rec/share/TR-KU7aM4xyxJG7MCEFPnQ9IIhYSmYicmJqQk2WQUGwoL0p-VIQhEsVtCDJ1cg0L.7B8dG0BXkv_JWlb_?startTime=1764339884000"
-     },
     {
         number: 1,
         title: " Root words Vocabulary " ,
