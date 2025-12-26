@@ -298,7 +298,7 @@ const courses = [
         title: " Vocabulary PYQ Class 2 " ,
         category: "English Vocab",
         videoUrl: 'https://us06web.zoom.us/rec/share/o13kZdwRayYHFVYRui-fbfgh_FYNQmR4gjuiE_vtYq3UoOl5uv9TAtUj8rs-ZAEo.8CX5MLkkanmmwaA3'
-    };       
+    }      
  ];
 
 let currentCategory = 'all';
