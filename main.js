@@ -396,25 +396,73 @@ const courses = [
 },
 {
 
-	number:10,
+	number: 10,
 	title: "Structure of Atom",
 	category: "Chemistry",
 	videoUrl: 'https://us06web.zoom.us/rec/share/bX9G1TO_xe_MguIKaxJlaQdA2YrLZoEEttFbSJFfjT7NK28d_F41WytJAxspoHvY.7zWoM0F04xumr5kQ?startTime=1766500881000'
 },
 {
 
-	number:11,
+	number: 11,
 	title: "Atoms & Molecules",
 	category: "Chemistry",
 	videoUrl:  'https://us06web.zoom.us/rec/share/8PmPCh0uepjLHZI_vjlFohH2Gw7wvW6Lv5xVn9lXHwbtUfI8sP3dqlfPudQGv58M.u7tKI8veLKFpZyp1'
 },
 {
 
-	number:12,
+	number: 12,
 	title: "Periodic Table And Trends",
 	category: "Chemistry",
 	videoUrl:  'https://us06web.zoom.us/rec/share/xJB1HI0XNygNuqaXxChHArc0_K-VNm-U8tHWVeJXftQtnhX842mK_CztH5FhOox6.Zi71PKcMY1fDHegQ?startTime=1766754146000'
 },
+{
+	number: 14,
+	title: "Landform by Running water 1",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/RVJPTfkppVqcOjWqVDPMUHE7qYqvdhlH60xijLSLePaFIc3iGw-ag6k7lTJCrkpz.6r8oAGAO4l8ZyjFR?startTime=1764766866000'
+},
+{
+	number: 15,
+	title: "",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/RVJPTfkppVqcOjWqVDPMUHE7qYqvdhlH60xijLSLePaFIc3iGw-ag6k7lTJCrkpz.6r8oAGAO4l8ZyjFR?startTime=1764771552000'
+},
+{
+	number: 16,
+	title: "Landform by ground Water",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/RVJPTfkppVqcOjWqVDPMUHE7qYqvdhlH60xijLSLePaFIc3iGw-ag6k7lTJCrkpz.6r8oAGAO4l8ZyjFR?startTime=1764774204000'
+},
+{
+	number: 17,
+	title: "Landform by Glaciers",
+	category: "Physical Geography",
+	videoUrl:'https://us06web.zoom.us/rec/share/5IyklVW9uv15O55X4sawRsjbZMC4yvYUzPPhLqNj3Zmv0X_mZSzfBYmNvYxf7_oX.7KsjMciFeW3KGJpH?startTime=1764939443000'
+},
+{
+	number: 18,
+	title: "Landform by sea waves",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/5IyklVW9uv15O55X4sawRsjbZMC4yvYUzPPhLqNj3Zmv0X_mZSzfBYmNvYxf7_oX.7KsjMciFeW3KGJpH?startTime=1764943840000'
+},
+{
+	number: 19,
+	title: "Landform by wind",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/5IyklVW9uv15O55X4sawRsjbZMC4yvYUzPPhLqNj3Zmv0X_mZSzfBYmNvYxf7_oX.7KsjMciFeW3KGJpH?startTime=1764945588000'
+},
+{
+	number: 20,
+	title: "Universe + Solar System",
+	category: "Physical Geography",
+	videoUrl:'https://us06web.zoom.us/rec/share/EKlRzS-qzR5LDPWPdjT7F9aGkwbMS6yo7P7FsvMx77Lly-K4ryaEe7bRCE3T-von.FacUWZBZe7XWlkiL?startTime=1765199562000'
+},
+{
+	number: 21,
+	title: "Time and International dateline ",
+	category: "Physical Geography",
+	videoUrl: 'https://us06web.zoom.us/rec/share/EKlRzS-qzR5LDPWPdjT7F9aGkwbMS6yo7P7FsvMx77Lly-K4ryaEe7bRCE3T-von.FacUWZBZe7XWlkiL?startTime=1765203768000'
+},	
 ];
 
 let currentCategory = 'all';
