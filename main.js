@@ -332,8 +332,90 @@ const courses = [
         title: " Vocabulary PYQ Class 2 " ,
         category: "English Vocab",
         videoUrl: 'https://us06web.zoom.us/rec/share/o13kZdwRayYHFVYRui-fbfgh_FYNQmR4gjuiE_vtYq3UoOl5uv9TAtUj8rs-ZAEo.8CX5MLkkanmmwaA3'
-    }      
- ];
+    },
+    {
+	number: 1,
+	title: "Chemical Reaction",
+	category: "Chemistry",
+	videoUrl:'https://us06web.zoom.us/rec/share/8I9fGtWjqNerGmSjwe6mqJbsXIOmTLneWWKDxvUr5BjsGWn2oPCV1otqmkZZ1VMB.ahgCwor0plM_9ZrM?startTime=1765371780000'
+},
+{
+
+	number:2,
+	title: "Acid-Base",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/r17GY8V9Ud7pItp72Y1q0d7gzoKwNMVkS0W4V4fjToCNsIVCntIf-c4Zqaz70H1c.mR12lQw_aBfSlohg?startTime=1765544547000'
+},
+{
+
+	number: 3,
+	title: "Salt",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/r17GY8V9Ud7pItp72Y1q0d7gzoKwNMVkS0W4V4fjToCNsIVCntIf-c4Zqaz70H1c.mR12lQw_aBfSlohg?startTime=1765549752000'
+},
+{
+
+	number:4,
+	title: "Metal And Non Metal Class 1",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/i4O57oFC_Ove1m7zDQSyx-FLw9gQXpgbmAnzIUkhTuK5hON2BKjBjjopHIh04syA.8qAx8v8PrGIN6Y4r?startTime=1765890071000'
+},
+{
+
+	number:5,
+	title: "Metal and non metal class 2",
+	category: "Chemistry",
+	videoUrl:  'https://us06web.zoom.us/rec/share/i4O57oFC_Ove1m7zDQSyx-FLw9gQXpgbmAnzIUkhTuK5hON2BKjBjjopHIh04syA.8qAx8v8PrGIN6Y4r?startTime=1765894226000'
+},
+{
+	number: 6,
+	title: "Carbon Class 1",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/TPU74iVXTWBja9HMDqxdwOdp2whKUBv0K4RkSW3ucTWrHhCeqZEkUWjW2KJABiah.IG3TzhTbuTlyw4El?startTime=1766064079000'
+},
+{
+
+	number: 7,
+	title: "Carbon Class 2",
+	category: "Chemistry",
+	videoUrl:  'https://us06web.zoom.us/rec/share/TPU74iVXTWBja9HMDqxdwOdp2whKUBv0K4RkSW3ucTWrHhCeqZEkUWjW2KJABiah.IG3TzhTbuTlyw4El?startTime=1766068845000'
+},
+{
+
+	number: 8,
+	title: "Soap+Detergent+Octane+Cetane No",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/bj7LDZ3RClMi0B2zRpXtbm-HV6lXeQ_A5oa8labGRk0cPuBhWELk-Uuq18k_0zac.v7QInFGf3MZqpQou'
+},
+{
+
+	number: 9,
+	title: "Solution + Suspension + Colloid",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/bX9G1TO_xe_MguIKaxJlaQdA2YrLZoEEttFbSJFfjT7NK28d_F41WytJAxspoHvY.7zWoM0F04xumr5kQ?startTime=1766494721000'
+},
+{
+
+	number:10,
+	title: "Structure of Atom",
+	category: "Chemistry",
+	videoUrl: 'https://us06web.zoom.us/rec/share/bX9G1TO_xe_MguIKaxJlaQdA2YrLZoEEttFbSJFfjT7NK28d_F41WytJAxspoHvY.7zWoM0F04xumr5kQ?startTime=1766500881000'
+},
+{
+
+	number:11,
+	title: "Atoms & Molecules",
+	category: "Chemistry",
+	videoUrl:  'https://us06web.zoom.us/rec/share/8PmPCh0uepjLHZI_vjlFohH2Gw7wvW6Lv5xVn9lXHwbtUfI8sP3dqlfPudQGv58M.u7tKI8veLKFpZyp1'
+},
+{
+
+	number:12,
+	title: "Periodic Table And Trends",
+	category: "Chemistry",
+	videoUrl:  'https://us06web.zoom.us/rec/share/xJB1HI0XNygNuqaXxChHArc0_K-VNm-U8tHWVeJXftQtnhX842mK_CztH5FhOox6.Zi71PKcMY1fDHegQ?startTime=1766754146000'
+},
+];
 
 let currentCategory = 'all';
 
