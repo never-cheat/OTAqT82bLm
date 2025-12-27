@@ -462,7 +462,7 @@ const courses = [
 	title: "Time and International dateline ",
 	category: "Physical Geography",
 	videoUrl: 'https://us06web.zoom.us/rec/share/EKlRzS-qzR5LDPWPdjT7F9aGkwbMS6yo7P7FsvMx77Lly-K4ryaEe7bRCE3T-von.FacUWZBZe7XWlkiL?startTime=1765203768000'
-},	
+}	
 ];
 
 let currentCategory = 'all';
