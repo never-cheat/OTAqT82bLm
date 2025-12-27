@@ -11,6 +11,12 @@ const courses = [
         category: "Baatcheet",
         videoUrl: "https://us06web.zoom.us/rec/share/jT0Yp7aVABG63oidE_txsFUZVq1niBmaC-__veE0PyoDSuz_64BpTpFGQV38lvyp.19dYcwngjx1MojsP?startTime=1762009439000"
     },
+	{
+	    number:3,
+	    title: "Prepometer Announcement",
+	    category: "Baatcheet",
+	    videoUrl: 'https://us06web.zoom.us/rec/share/N-HlZLJYPNCWGlFhNEpbDh5lD6KuHx87D-_KlYFVBm1x2K_cEY0GhEo2sKeM8jPU.bpUGvdgsj8Ep9Ml8'
+    },
     {
         number: 1,
         title: "Cell 1",
