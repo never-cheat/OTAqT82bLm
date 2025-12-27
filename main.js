@@ -206,10 +206,30 @@ const courses = [
     },
     {
         number: 3,
-        title: "Root words Vocabulary",
+        title: "Full Mock 2 Explanation",
         category: "English Practice",
-        videoUrl: "https://us06web.zoom.us/rec/share/zhpsyCC_-ytUUI6KiLrJSZXDVQYuTZ017jrOF2l5x-0LLxh2ynytXEs5ShEfVndw.kBcssDDIPsg98G5n"
-    },
+        videoUrl: 'https://us06web.zoom.us/rec/share/g2VunkFmUqUjI_MShyY6DjsLykrpJlF1NrecjWJSvhBk31TWNwVSTTCv65rO43Kr.YIg74deDvhaLNODe'
+     },
+    {
+        number: 4,
+        title: "English Test 7/12 Explanation ",
+        category: "English Practice",
+        videoUrl:'https://us06web.zoom.us/rec/share/YZRF-2F-flEMSl_xOg1O0NB3g39cXVDuWdqMHpatosSmwKLVGjhnZHrNjaqYPdY.wcNg1KFMsh9x8MgF'
+      },
+      
+      {
+        number: 5,
+        title: "Full Mock 4 Explanation",
+        category: "English Practice",
+        videoUrl:'https://us06web.zoom.us/rec/share/gX8hrQoPpPu8Amg-xkworUo-EVrxE-3FXYWvnEh23Q1nA5fIbcZrBaTUFFPT4hCw.CyHCJxpFJrfFU-A1?startTime=1765803638000'
+      },
+    
+      {
+        number: 6,
+        title: "Full Mock 5 Explanation",
+        category: "English Practice",
+        videoUrl:'https://us06web.zoom.us/rec/share/I1l1kS9kJ7jX7Ukutx9W4UfBjJJRth2jCcMkdNuYApCwsvUpfvFsSz_2jVljP_Dn.3jtyI6HPTePetfli'
+      },
     {
         number: 1,
         title: "Protein wali bimari",
