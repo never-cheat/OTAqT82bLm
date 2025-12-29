@@ -468,7 +468,13 @@ const courses = [
 	title: "Time and International dateline ",
 	category: "Physical Geography",
 	videoUrl: 'https://us06web.zoom.us/rec/share/EKlRzS-qzR5LDPWPdjT7F9aGkwbMS6yo7P7FsvMx77Lly-K4ryaEe7bRCE3T-von.FacUWZBZe7XWlkiL?startTime=1765203768000'
-}	
+},
+{
+        number: 1,
+        title: "English Breakfast 1 Explanation",
+        category: "English Breakfast",
+        videoUrl: "https://us06web.zoom.us/rec/share/w-dgiqPIo-tuD4NB880LD6yi5F8iNOWlew7rPh9mzdUh9WFjEO06v1rRs7vFnmyF.N4nWkX37vhUeWTFl?startTime=1766813425000"
+},	
 ];
 
 let currentCategory = 'all';
